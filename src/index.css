@@ -2,5 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-/* small custom styles */
-body { -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+@keyframes gradient-background {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+.animate-gradient-background {
+  background-size: 400% 400%;
+  animation: gradient-background 15s ease infinite;
+}

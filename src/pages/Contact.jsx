@@ -20,8 +20,7 @@ export default function Contact() {
             <FaFacebookF /> Facebook
           </a>
           <a
-            href="https://www.instagram.com/bipul__rijal/"
-            target="_blank"
+            href="https://www.instagram.com/bipul__rijal_7/
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 bg-pink-500 hover:bg-pink-600 p-3 rounded-xl font-semibold"
           >
@@ -36,7 +35,7 @@ export default function Contact() {
             <FaWhatsapp /> WhatsApp Business
           </a>
           <a
-            href="https://www.tiktok.com/@4x__chandre__09"
+            href="https://www.tiktok.com/@bipul__rijal"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 bg-black hover:bg-gray-800 p-3 rounded-xl font-semibold"
